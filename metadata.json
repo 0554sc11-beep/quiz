@@ -1,0 +1,6 @@
+{
+  "name": "키워드 경험 맞추기 스피드게임",
+  "description": "학생들이 3~6개 키워드로 경험을 공유하고 실시간으로 누구인지 맞추는 학급 스피드 퀴즈 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
